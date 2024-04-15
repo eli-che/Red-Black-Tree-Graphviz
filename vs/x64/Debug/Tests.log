@@ -1,0 +1,20 @@
+﻿  testsRedBlacktree.cpp
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(610,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(602): message : while compiling class template member function 'int RBTree<int>::GzAddNode(std::string &,std::string &,const RBTree<int>::Node *,size_t)'
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(591): message : see reference to function template instantiation 'int RBTree<int>::GzAddNode(std::string &,std::string &,const RBTree<int>::Node *,size_t)' being compiled
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(524): message : while compiling class template member function 'int RBTree<int>::heightHelper(RBTree<int>::Node *)'
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(545): message : see reference to function template instantiation 'int RBTree<int>::heightHelper(RBTree<int>::Node *)' being compiled
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(90): message : while compiling class template member function 'RBTree<int>::RBTree(void)'
+C:\Users\Vezot\Desktop\deletemap\test\testsRedBlacktree.cpp(71): message : see reference to function template instantiation 'RBTree<int>::RBTree(void)' being compiled
+C:\Users\Vezot\Desktop\deletemap\test\testsRedBlacktree.cpp(71): message : see reference to class template instantiation 'RBTree<int>' being compiled
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(629,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(616): message : while compiling class template member function 'int RBTree<int>::GzAddChild(std::string &,std::string &,const RBTree<int>::Node *,size_t,size_t,const std::string &)'
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(608): message : see reference to function template instantiation 'int RBTree<int>::GzAddChild(std::string &,std::string &,const RBTree<int>::Node *,size_t,size_t,const std::string &)' being compiled
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(602): message : while compiling class template member function 'int RBTree<int>::GzAddNode(std::string &,std::string &,const RBTree<int>::Node *,size_t)'
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(591): message : see reference to function template instantiation 'int RBTree<int>::GzAddNode(std::string &,std::string &,const RBTree<int>::Node *,size_t)' being compiled
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(410): warning C4715: 'RBTree<int>::deleteNodeHelperFinder': not all control paths return a value
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(410): warning C4715: 'RBTree<char>::deleteNodeHelperFinder': not all control paths return a value
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(464): warning C4172: returning address of local variable or temporary
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(481): warning C4172: returning address of local variable or temporary
+C:\Users\Vezot\Desktop\deletemap\RBTree.hpp(484): warning C4172: returning address of local variable or temporary
+  Tests.vcxproj -> C:\Users\Vezot\Desktop\deletemap\vs\x64\Debug\Tests.exe
